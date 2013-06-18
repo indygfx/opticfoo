@@ -23,6 +23,8 @@ In order to run this code you will need
 For the models you'll need to setup the model's path in the 'Config.prc' 
 file.
 
+(just start with: apt-get install python-alsaaudio, python-fftw3)
+
 Usage
 -----
 
